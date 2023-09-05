@@ -42,6 +42,7 @@ console.log("invertirLista([2,3,4]): ", invertirLista([2,3,4]))
  * Ejemplos:
  * - calcularPromedio([2,3,4]) retorna 3
  */
+
 function calcularPromedio(listaDeNumeros) {
     let tot=0;
     for(let i=0; i<listaDeNumeros.length; i++)
