@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>TP-2: Listas en JavaScript</title>
+</head>
+<body>
+    <h1>TP-2: Listas en JavaScript</h1>
+    <p>Completar con la implementación de las funciones solicitadas en los comentarios del archivo <code>listas.js</code>.</p>
+    <script src="listas.js"></script>
+</body>
+</html>
+
 var listaNumerosEjemplo = [2,4,6,-1,5,-4,0];
 
 
